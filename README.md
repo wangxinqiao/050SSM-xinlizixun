@@ -13,7 +13,9 @@
 并结合MySQL数据库实现了大学生心理减压网站的信息化管理。
 ```
 
-源码获取地址：[点此获取](http://www.shuyue.fun/?type=productinfo&id=186)
+源码获取地址：[ **点此获取** ](http://www.shuyue.fun/?type=productinfo&id=186)
+
+演示视频：[ **点此链接** ](https://www.bilibili.com/video/av502122421/)
 
 #### 环境需要
 ```
